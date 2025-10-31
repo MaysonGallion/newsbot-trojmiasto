@@ -1,0 +1,33 @@
+feeds:
+  - name: "ZTM Gdańsk - zmiany"
+    url: ""
+    source: "ztm.gda.pl"
+    has_images: false
+  - name: "Gdańsk.pl - wiadomości"
+    url: ""
+    source: "gdansk.pl"
+    has_images: true
+  - name: "NaszeMiasto - Gdańsk"
+    url: ""
+    source: "gdansk.naszemiasto.pl"
+    has_images: true
+  - name: "NaszeMiasto - Gdynia"
+    url: ""
+    source: "gdynia.naszemiasto.pl"
+    has_images: true
+  - name: "NaszeMiasto - Sopot"
+    url: ""
+    source: "sopot.naszemiasto.pl"
+    has_images: true
+  - name: "Policja - Gdynia"
+    url: ""
+    source: "gdynia.policja.gov.pl"
+    has_images: false
+  - name: "Policja - Sopot"
+    url: ""
+    source: "sopot.policja.gov.pl"
+    has_images: false
+  - name: "US Gdańsk - RSS"
+    url: ""
+    source: "gdansk.stat.gov.pl"
+    has_images: false

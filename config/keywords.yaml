@@ -1,0 +1,18 @@
+places:
+  - ["Gdańsk","Gdansk","Ґданськ","Гданьск"]
+  - ["Gdynia","Ґдиня","Гдыня"]
+  - ["Sopot","Сопот","Сопот"]
+  - ["Trójmiasto","Trojmiasto","Труймясто"]
+transport:
+  - ["ZTM","komunikacja miejska","SKM","PKP SKM","tramwaj","autobus","zmiany w rozkładzie","ремонт колії","транспорт"]
+incidents:
+  - ["wypadek","kolizja","utrudnienia","awaria","ДТП","аварія","пожежа","повалене дерево"]
+city:
+  - ["remont","prace drogowe","objazd","zamknięcie ulicy","двір","комунальні роботи"]
+events:
+  - ["wydarzenia","koncert","festiwal","impreza","мероприятие","подія"]
+weather:
+  - ["alert","ostrzeżenie","wiatr","sztorm","burza","шторм","шквал"]
+misc:
+  - ["szpital","szkoła","dworzec","lotnisko","аеропорт","порт","залізниця"]
+languages: ["RU","UA","PL"]
