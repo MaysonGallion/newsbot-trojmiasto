@@ -4,3 +4,16 @@ sources:
     url: https://www.gdansk.pl/subpages/rss/wiadomosci_rss.xml
     tags: [miasto, oficjalne, wiadomości]
     has_media: true
+    image_hint: description
+    lang: PL
+
+  - id: gdansk_komunikaty
+    city: Gdańsk
+    url: https://www.gdansk.pl/subpages/rss/komunikaty_rss.xml
+    category: komunikaty
+    tags: [urzad, komunikaty, oficjalne]
+    lang: PL
+    has_media: false
+    image_hint: none
+    update_hint: hourly
+    trust: high
